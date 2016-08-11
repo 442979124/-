@@ -21,7 +21,7 @@
     self.window = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
     self.window.rootViewController = [[MainTableController alloc] init];
     [self.window makeKeyAndVisible];
-    
+    //qwqwqwqwqwesds
     return YES;
     
 }
